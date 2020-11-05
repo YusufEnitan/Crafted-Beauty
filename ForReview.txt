@@ -1,0 +1,22 @@
+A report on my first WekiWork Probation project. 
+
+I had a few challenges:
+    1. implementing the z-index
+    2. using media queries
+    3. using hover on my buttons and links
+
+I noticed the app wasn't mobile responsive so i tried to twig it
+by using media queries but i wasn't able to make it work.
+
+I added a few changes:
+    1. a nav bar color.
+    2. a large products and services section.
+    3. the nav-links can navigate to their various web sections.
+    4. each section fills up the screen of the PC, makes it a little bit unique.
+
+Things i learnt from building this website:
+    1. i now understand how to use negative values better.
+    2. z-index is less confusing.
+    3. i undertand using flex and position better.
+
+I really enjoyed designing this though it took longer than i imagined.
